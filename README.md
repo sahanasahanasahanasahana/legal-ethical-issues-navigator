@@ -56,7 +56,8 @@ This project is a web-based tool designed to assist users in quickly identifying
 └── project.js # JavaScript logic (matching and output)
 
 ---
-
+![Main Interface](image1.png)
+![Result Display](image2.png)
 ## 🚀 Getting Started
 
 ### 🛠 Run Locally
